@@ -1,8 +1,14 @@
+- EN:
 - 👋 Hi, I’m Gabriel Saar.
 - 👀 I’m interested in Games, Sci-fi movies, car racing and songs.
-- 🌱 I’m currently learning Computer engineering.
+- 🌱 Currently learning Computer engineering, Graduated Electronics Technician  
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: I'm lvl 500 in League Of Legends and I'm a big fan of MClaren and Mazda.
+
+- PT:
+- 👋 Olá, me chamo Gabriel Saar.
+- 👀 Entusiasta de automobilismo, jogos, música e filmes Sci-fi.
+- 🌱 Atualmente graduando em engenharia da computação e técnico em eletrônica.  
+- 😄 Pronomes: Ele/Dele.
 
 <!---
 Gabriel-Saar/Gabriel-Saar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
